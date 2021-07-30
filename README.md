@@ -1,5 +1,7 @@
 # digitalOceanScripts
 
+https://www.youtube.com/watch?v=rkDwPQuqP0g
+
 This is a collection of digital ocean scripts for ubuntu (16.04) droplets. Most of them should work for any ubuntu server.
 
 
