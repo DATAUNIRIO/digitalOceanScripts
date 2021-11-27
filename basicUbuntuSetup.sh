@@ -40,3 +40,6 @@ sudo apt-get -y install texlive-full
 sudo su - -c "R -e \"install.packages('devtools', repos='http://cran.rstudio.com/')\""
 sudo su - -c "R -e \"install.packages('rmarkdown', repos='http://cran.rstudio.com/')\""
 sudo su - -c "R -e \"install.packages('tidyverse', repos='http://cran.rstudio.com/')\""
+
+## Install MAGICK R package
+sudo apt-get install libmagick++-dev
